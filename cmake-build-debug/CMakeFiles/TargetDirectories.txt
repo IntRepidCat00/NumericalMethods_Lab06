@@ -1,0 +1,3 @@
+D:/Work/University/C1S2/Numerical Methods/Lab06/cmake-build-debug/CMakeFiles/Lab06.dir
+D:/Work/University/C1S2/Numerical Methods/Lab06/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work/University/C1S2/Numerical Methods/Lab06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
